@@ -4,6 +4,7 @@ const http = require('http');
 const server = http.createServer(app);
 const { Server } = require("socket.io");
 const io = new Server(server);
+const cParser = require("./commandParser")
 
 app.get('/', (req, res) => {
   res.sendFile(__dirname + '/client/index.html');
@@ -26,6 +27,13 @@ io.on('connection', (socket) => {
   socket.on('send message', (msg, username) => {
     console.log(`[UserMessage@${username}]: ` + msg)
     io.emit('recieve user message', msg, username);
+  });
+
+  // On command sent
+  socket.on('run command', (command, username) => {
+    var commandArgs = command.split(" ")
+    cParser.parse(commandArgs, socket, io)
+    console.log(`[UserCommand@${username}]: ` + command)
   });
 
 });
