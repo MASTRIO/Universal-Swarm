@@ -1,0 +1,27 @@
+{
+  "name": "table-universe",
+  "version": "1.0.0",
+  "description": "make universe into tables",
+  "bin": "./src/server.js",
+  "pkg": {
+    "assets": [
+      "node_modules/**/*",
+      "assets/*",
+      "src/**/*"
+    ],
+    "targets": [
+      "node10-win-x64"
+    ]
+  },
+  "main": "./src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.3",
+    "typescript": "^4.3.5"
+  }
+}

@@ -1,6 +1,0 @@
-me/mastrio/thumbtackMultiverse/UI/UIButton.java
- me.mastrio.thumbtackMultiverse.UI.UIButton
-me/mastrio/thumbtackMultiverse/UI/UI.java
- me.mastrio.thumbtackMultiverse.UI.UI
-me/mastrio/thumbtackMultiverse/Main.java
- me.mastrio.thumbtackMultiverse.Main
