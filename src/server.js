@@ -32,7 +32,7 @@ io.on('connection', (socket) => {
   // On command sent
   socket.on('run command', (command, username) => {
     var commandArgs = command.split(" ")
-    cParser.parse(commandArgs, socket, io)
+    cParser.parse(commandArgs, username, socket, io)
     console.log(`[UserCommand@${username}]: ` + command)
   });
 
