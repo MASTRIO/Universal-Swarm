@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=c:\Users\hclark7\Documents\GitHub\Universal-Swarm\universal-universe\target\rls\debug\build\typenum-2571bee627b3171c\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=c:\Users\hclark7\Documents\GitHub\Universal-Swarm\universal-universe\target\rls\debug\build\typenum-2571bee627b3171c\out\op.rs

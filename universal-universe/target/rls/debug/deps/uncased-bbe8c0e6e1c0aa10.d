@@ -1,0 +1,11 @@
+c:\Users\hclark7\Documents\GitHub\Universal-Swarm\universal-universe\target\rls\debug\deps\uncased-bbe8c0e6e1c0aa10.rmeta: C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.6\src\lib.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.6\src\serde.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.6\src\owned.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.6\src\borrowed.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.6\src\as_uncased.rs
+
+c:\Users\hclark7\Documents\GitHub\Universal-Swarm\universal-universe\target\rls\debug\deps\libuncased-bbe8c0e6e1c0aa10.rlib: C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.6\src\lib.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.6\src\serde.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.6\src\owned.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.6\src\borrowed.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.6\src\as_uncased.rs
+
+c:\Users\hclark7\Documents\GitHub\Universal-Swarm\universal-universe\target\rls\debug\deps\uncased-bbe8c0e6e1c0aa10.d: C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.6\src\lib.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.6\src\serde.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.6\src\owned.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.6\src\borrowed.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.6\src\as_uncased.rs
+
+C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.6\src\lib.rs:
+C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.6\src\serde.rs:
+C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.6\src\owned.rs:
+C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.6\src\borrowed.rs:
+C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.6\src\as_uncased.rs:

@@ -1,0 +1,5 @@
+c:\Users\hclark7\Documents\GitHub\Universal-Swarm\universal-universe\target\rls\debug\deps\typeable-20359145ea959502.rmeta: C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\typeable-0.1.2\src\lib.rs
+
+c:\Users\hclark7\Documents\GitHub\Universal-Swarm\universal-universe\target\rls\debug\deps\typeable-20359145ea959502.d: C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\typeable-0.1.2\src\lib.rs
+
+C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\typeable-0.1.2\src\lib.rs:

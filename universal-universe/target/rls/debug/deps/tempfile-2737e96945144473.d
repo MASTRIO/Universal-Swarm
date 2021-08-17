@@ -1,0 +1,12 @@
+c:\Users\hclark7\Documents\GitHub\Universal-Swarm\universal-universe\target\rls\debug\deps\tempfile-2737e96945144473.rmeta: C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\lib.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\dir.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\error.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\file\mod.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\file\imp\mod.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\spooled.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\util.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\file\imp\windows.rs
+
+c:\Users\hclark7\Documents\GitHub\Universal-Swarm\universal-universe\target\rls\debug\deps\tempfile-2737e96945144473.d: C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\lib.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\dir.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\error.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\file\mod.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\file\imp\mod.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\spooled.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\util.rs C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\file\imp\windows.rs
+
+C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\lib.rs:
+C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\dir.rs:
+C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\error.rs:
+C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\file\mod.rs:
+C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\file\imp\mod.rs:
+C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\spooled.rs:
+C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\util.rs:
+C:\Users\hclark7\.cargo\registry\src\github.com-1ecc6299db9ec823\tempfile-3.2.0\src\file\imp\windows.rs:
